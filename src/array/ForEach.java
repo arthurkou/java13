@@ -15,6 +15,7 @@ public class ForEach {
 		for(double nota: notas) {
 			System.out.print(nota + " ");
 		}
+	
 	}
 
 }
